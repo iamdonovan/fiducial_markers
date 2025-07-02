@@ -1,0 +1,11 @@
+name: fiducials
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - jupyterlab
+  - tabulate
+  - matplotlib
+  - scipy
