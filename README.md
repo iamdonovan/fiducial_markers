@@ -75,11 +75,12 @@ reports, and the number of reports for each camera make/model.
 
 ## summary information
 
-As of the latest update `data/combined_reports.csv` has information from 1392 reports, summarized by 
+As of the latest update `data/combined_reports.csv` has information from 1915 reports, summarized by 
 camera make/model:
 
 | camera_name                |   count |
 |:---------------------------|--------:|
+| Wild Heerbrugg RC10        |     539 |
 | Wild Heerbrugg RC8         |     399 |
 | Park                       |     172 |
 | Fairchild K-17 (modified)  |     142 |
@@ -89,54 +90,54 @@ camera make/model:
 | Fairchild T-11             |      40 |
 | Fairchild K-17B (modified) |      32 |
 | Zeiss RMK 15/23            |      25 |
-| Wild Heerbrugg RC10        |      25 |
 | Fairchild T-5              |      22 |
-| Fairchild KC-1             |      22 |
 | K-24                       |      22 |
-| Aero/View Type 800         |      19 |
+| Fairchild KC-1             |      22 |
 | Park Twinplex              |      19 |
+| Aero/View Type 800         |      19 |
 | Wild Heerbrugg RC5         |      16 |
 | Fairchild K-17             |      15 |
 | Wild Heerbrugg RC9         |      14 |
 | Fairchild KC-1B            |      14 |
 | Smith                      |      13 |
 | Zeiss RMK A 21/23          |      12 |
-| Airagon                    |       9 |
-| Aero/View                  |       9 |
-| Aero                       |       9 |
 | Wild Heerbrugg RC5A        |       9 |
+| Aero/View                  |       9 |
+| Airagon                    |       9 |
+| Aero                       |       9 |
+| Wild Heerbrugg RC10A       |       8 |
 | Fairchild F-225            |       6 |
 | Fairchild KC-1A            |       6 |
+| Aero/View Type 600         |       5 |
 | Fairchild F-224            |       5 |
 | Zeiss RMK A 8.5/23         |       5 |
-| Wild Heerbrugg RC5/8       |       5 |
-| Aero/View Type 600         |       5 |
 | Hurd                       |       5 |
+| Wild Heerbrugg RC5/8       |       5 |
 | WAC                        |       4 |
 | Fairchild KC-4B            |       4 |
 |                            |       3 |
 | Zeiss Jena MRB 15/2323     |       3 |
 | Fairchild KC-8             |       3 |
 | Fairchild KC-4             |       3 |
-| Fairchild K-17B            |       2 |
 | Fairchild K-17C (modified) |       2 |
+| Fairchild K-17B            |       2 |
 | Fairchild T-12A            |       2 |
+| Fairchild KC-6A            |       1 |
 | Fairchild KC-4A            |       1 |
 | Aero/View Type 1200        |       1 |
 | Fairchild                  |       1 |
-| Fairchild KC-6A            |       1 |
 | Kargl                      |       1 |
-| Kargl K1C8                 |       1 |
 | Kargl K-17                 |       1 |
-| Wild Heerbrugg             |       1 |
 | Kargl K1C-8G-9             |       1 |
+| Kargl K1C8                 |       1 |
+| Wild Heerbrugg RC10A*      |       1 |
+| Wild Heerbrugg             |       1 |
 | Zeiss Jena LMK 2000        |       1 |
 | Zeiss RMK 30/23            |       1 |
 | Zeiss RMK A 30/23          |       1 |
 | Zeiss RMK AR 15/23         |       1 |
 | Zeiss RMK AR 30/23         |       1 |
 | Zeiss RMK TOP 30           |       1 |
-
 
 ## contributing
 
